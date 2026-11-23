@@ -4,7 +4,11 @@ import java.util.ArrayList;
 public class GestorTareas {
     static ArrayList<String> tareas = new ArrayList<>();
     public static void main(String[] args) {
-        System.out.println("Gestor de tareas - versión B");
+ feature/mensaje-a
+        System.out.println("Gestor de tareas  - equipo A y B ");
+    }
+        System.out.println("Gestor de tareas  - equipo A y B ");
         }
+ master
 }
 
